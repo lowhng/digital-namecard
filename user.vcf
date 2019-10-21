@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Lo;Wei Hong;;;
+FN: Wei Hong Lo 
+ORG:University of Otago;
+TITLE:PhD Student\nARSpectator, Department of Computer Science
+EMAIL;type=INTERNET;type=WORK;type=pref:wei.lo@postgrad.otago.ac.nz
+TEL;type=WORK;type=VOICE:+64 27 240 5296
+item1.ADR;type=WORK;type=pref:;;Owheo Building\nDunedin\, University of Otago;;;9016;New Zealand
+item1.X-ABADR:nz
+item2.URL;type=pref:lowhng.space
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
